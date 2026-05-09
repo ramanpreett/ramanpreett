@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="450"/>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
 - MCA student focused on AI systems and full-stack development
 - Building intelligent applications with modern AI and scalable backend systems
@@ -22,7 +22,7 @@
 
 ---
 
-## Currently Exploring
+## 🔍 Currently Exploring
 
 - AI Agents & Agentic Workflows
 - Recommendation Systems
@@ -33,9 +33,9 @@
 
 ---
 
-## Featured Projects
+## 💡 Featured Projects
 
-### Concept Graph AI
+### 🧠 Concept Graph AI
 
 **Tech Stack:**  
 React • AI APIs • Graph Visualization • JavaScript
@@ -47,7 +47,7 @@ React • AI APIs • Graph Visualization • JavaScript
 
 ---
 
-### Multimodal Debugger Assistant
+### 🛠️ Multimodal Debugger Assistant
 
 **Tech Stack:**  
 Python • FastAPI • AI Models • Computer Vision
@@ -59,7 +59,7 @@ Python • FastAPI • AI Models • Computer Vision
 
 ---
 
-### Freelance Client Management System
+### 💼 Freelance Client Management System
 
 **Tech Stack:**  
 React • Node.js • Express.js • MongoDB
@@ -73,7 +73,10 @@ React • Node.js • Express.js • MongoDB
 
 ## 🛠️ Tech Stack
 
-### Languages
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -81,71 +84,96 @@ React • Node.js • Express.js • MongoDB
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
----
+</td>
+</tr>
 
-### Frontend
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+</td>
+</tr>
 
-### Backend
+<tr>
+<td><strong>Backend</strong></td>
+<td>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
+</td>
+</tr>
 
-### Databases
+<tr>
+<td><strong>Databases</strong></td>
+<td>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+</td>
+</tr>
 
-### AI / ML
+<tr>
+<td><strong>AI / ML</strong></td>
+<td>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
----
+</td>
+</tr>
 
-### Tools
+<tr>
+<td><strong>Tools</strong></td>
+<td>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+</td>
+</tr>
 
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/ramanpreet-kaur-b9202b220
-- Portfolio: ramanpreett.github.io/portfolio/
-- Email: ramanpreetkaurr04@gmail.com
+</table>
 
 ---
 
-### Building AI-powered systems focused on scalability, deployment, and intelligent user experiences.
+## 📊 GitHub Stats
 
-<!--
-**ramanpreett/ramanpreett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramanpreett&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanpreett&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramanpreett&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/ramanpreet-kaur-b9202b220
+- 🌐 Portfolio: ramanpreett.github.io/portfolio/
+- 📧 Email: ramanpreetkaurr04@gmail.com
+
+---
+
+### ⚡ Building AI-powered systems focused on scalability, deployment, and intelligent user experiences.
