@@ -168,6 +168,12 @@ React • Node.js • Express.js • MongoDB
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramanpreett&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/ramanpreet-kaur-b9202b220
